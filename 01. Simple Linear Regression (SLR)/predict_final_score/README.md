@@ -1,0 +1,1 @@
+We will develop a project using an online education platform. The goal is to assess whether the number of hours students spend studying influences their final test scores. To do this, we will train a simple linear regression algorithm to predict test scores based on study hours.
