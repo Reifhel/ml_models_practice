@@ -12,6 +12,7 @@ matplotlib = "*"
 ipykernel = "*"
 gradio = "*"
 pingouin = "*"
+joblib = "*"
 
 [dev-packages]
 
