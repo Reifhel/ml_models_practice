@@ -11,6 +11,7 @@ seaborn = "*"
 matplotlib = "*"
 ipykernel = "*"
 gradio = "*"
+pingouin = "*"
 
 [dev-packages]
 
