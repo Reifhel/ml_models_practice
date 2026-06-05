@@ -1,0 +1,21 @@
+Data Dictionary - Obesity Dataset
+
+Gender_Male is 1 if the respondent is male and 0 if female.
+Age is the respondent’s age in years.
+Family_History_of_Overweight is 1 if the respondent has a family member who is or has been overweight, 0 if not.
+High-Calorie_Consumption_Frequency is 1 if the respondent frequently consumes high-calorie foods, 0 if not.
+Frequent_Vegetable_Consumption is 1 if the respondent usually eats vegetables with meals, 0 if not.
+Meals_Per_Day represents how many main meals the respondent eats daily (0 for 1–2 meals, 1 for 3 meals, and 2 for more than 3 meals).
+Snacking represents how much food the respondent consumes between meals on a scale of 0 to 3.
+Water_Intake represents how much fluid the respondent consumes on a scale of 0 to 2.
+Calorie_Intake_Tracking is 1 if the respondent tracks their calorie intake, 0 if not.
+Physical_Activity_Level represents how much physical activity the respondent engages in on a scale of 0 to 3.
+Screen_Time represents how much time the respondent spends looking at screen-based devices on a scale of 0 to 2.
+Alcohol_Consumption represents how often the respondent consumes alcohol on a scale of 0 to 3.
+Car_Transportation indicates that the primary mode of transportation is a car.
+Bicycle_Transportation indicates that the primary mode of transportation is a bicycle
+Motorcycle_Transportation indicates that the primary mode of transportation is a motorcycle
+Public_Transport indicates that the primary mode of transportation is public transportation (Bus, Train, Subway)
+Walking_Transport indicates that the primary mode of transportation is Walking
+Obese is 1 if the patient is obese and 0 if not.
+Smoker is 1 if the respondent smokes, 0 if not.
