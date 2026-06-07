@@ -1,0 +1,13 @@
+Data Dictionary - Fruit Dataset
+
+A_id is the unique identifier for the sample in the dataset
+Size is the size of the fruit
+Weight is the weight of the fruit
+Sweetness is the sweetness level of the fruit
+Crunchiness is the crunchiness level of the fruit
+Juiciness is the juiciness level of the fruit
+Ripeness is the ripeness level of the fruit
+Acidity is the fruit's acidity level
+Quality is the fruit's quality, which can be good or bad
+
+All numerical values in the dataset (except A_id) have been pre-transformed using a StandardScaler
