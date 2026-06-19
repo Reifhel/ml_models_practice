@@ -1,0 +1,11 @@
+country - Country Name
+child_mort - Infant mortality per 1,000 births
+exports; - Export Level (percentage of GDP)
+health - Health Investment (percentage of GDP)
+imports - Import Level (percentage of GDP)
+income - Average income per capita
+inflation - Inflation
+life_expec - Life expectancy in years
+total_fer - Total number of children each woman could have given birth to if the fertility rate remained the same
+gdpp - GDP per capita (country’s GDP divided by population)
+income_category - Country category based on income
