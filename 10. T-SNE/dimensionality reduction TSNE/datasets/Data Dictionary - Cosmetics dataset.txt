@@ -1,0 +1,11 @@
+Category: Product Category
+Brand: Product Brand
+Name: Product Name
+Price: Product Price
+Rating: Product Rating
+Ingredients: List of Ingredients / Components
+Combination_Skin: Suitable for Combination Skin?
+Dry_Skin: Suitable for Dry Skin?
+Normal_Skin: Suitable for Normal Skin?
+Oily_Skin: Suitable for Oily Skin?
+Sensitive_Skin: Suitable for Sensitive Skin?
