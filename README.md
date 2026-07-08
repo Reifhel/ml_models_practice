@@ -34,17 +34,19 @@ Each folder represents a different Machine Learning model or topic.
 
 Some of the topics that may be included in this repository:
 
-- Linear Regression
+- Linear Regression (simple and multiple)
+- Polynomial Regression
+- Decision Tree
+- Naive Bayes
 - Logistic Regression
-- Classification Models
-- Clustering
-- Decision Trees
-- Random Forest
-- Neural Networks
+- Clustering (K-Means and Hierarchical)
+- PCA, T-SNE and Apriori
+- Model Ensemble (Random Forest)
 - Data Preprocessing
+- Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Model Evaluation
-- And more...
+- Model deployment
 
 ## Purpose
 
@@ -63,6 +65,7 @@ This repository was created to:
 - Scikit-learn
 - Matplotlib
 - Seaborn
+- Plotly
 - Jupyter Notebook
 
 ## How to Run
